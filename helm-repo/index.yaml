@@ -3,7 +3,7 @@ entries:
   stunner:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-02-11T16:38:41.0699071+05:30"
+    created: "2025-02-11T18:34:30.0074656+05:30"
     description: STUNner - A Kubernetes media gateway for WebRTC
     digest: c4d0e11bb5b00b23e8e5f96e4925e6b8272defb09af4511ca70bcbbc45a8c8b9
     icon: https://raw.githubusercontent.com/l7mp/stunner/main/docs/img/stunner.svg
@@ -14,6 +14,6 @@ entries:
     name: stunner
     type: application
     urls:
-    - https://github.com/Chinmay00/stunner-helm/stunner-1.0.0.tgz
+    - https://chinmay00.github.io/stunner-helm/helm-repo/charts/stunner-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-11T16:38:41.0679082+05:30"
+generated: "2025-02-11T18:34:30.0062361+05:30"
